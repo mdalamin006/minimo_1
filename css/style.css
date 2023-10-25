@@ -199,17 +199,9 @@ padding-top:100px;
     float: left;
 width:40%;
 }
-.f_terms ul{
-float: left;
 }
-.f_terms ul li{
-margin-right:10px;
- list-style: none;
- float: left;
- border:1px solid transparent;
- transition: .33s;
-}
-.f_terms p{
+
+.f_terms a{
     font-family:'Playfair Display', serif ;
     font-size: 16px;
     font-weight: 400;
