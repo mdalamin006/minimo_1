@@ -197,10 +197,8 @@ padding-top:100px;
 }
 .f_terms{
     float: left;
-width:40%;
+    width:40%;
 }
-}
-
 .f_terms a{
     font-family:'Playfair Display', serif ;
     font-size: 16px;
